@@ -1,0 +1,32 @@
+body {
+  text-align: center;
+  background-color: #FFFFF9;
+}
+ h1{
+   font-size: 40px;
+   font-family: Sans-serif;
+ }
+ h2{
+   font-size: 25px;
+   font-family: Sans-serif;
+ }
+p {
+  font-size: 15px;
+  font-family: Helvetica;
+}
+#image {
+  height: 200;
+  width: 180;
+}
+.responsive-img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+}
+#img-caption {
+  font-size: 10px;
+  font-family: italianno;
+}
+
+
+  
