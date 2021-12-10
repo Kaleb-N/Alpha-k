@@ -1,0 +1,23 @@
+nav {
+  position: fixed;
+  top: 0;
+  background-color: white;
+  height: 100%;
+  width: 300px;
+}
+main {
+  margin-left: 320px;
+  width:
+}
+li {
+  margin-left: 15px;
+}
+header {
+  font-size: 30px;
+}
+p {
+  font-size: 20px;
+}
+@media (max-width: 200px) {
+  backgroung-color: #FFFFFF;
+}
